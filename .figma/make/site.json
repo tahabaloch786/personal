@@ -1,0 +1,10 @@
+{
+  "description": "An intimate neon-pink interactive love universe crafted to celebrate a unique romantic bond with glowing animations, heartfelt messages, and personalized memories.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
